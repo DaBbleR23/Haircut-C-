@@ -1,0 +1,84 @@
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.exe.config
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.exe
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.pdb
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Buscar.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.MiControlCruzado.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_ProductosEstetica.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_agenda.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_ProductosPeluqueria.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_SeleccionarUbicacionBD.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_SPLASH.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Principal.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Properties.Resources.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Ayuda.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Forumula.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Foto.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Recursos.Foto2.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva Peluqueros.exe
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva Peluqueros.pdb
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.504.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.534.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.537.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.537.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.581.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.589.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.598.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.581.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.589.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.673.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.685.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.685.tlog
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_Comparativa.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Form_Ventas.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Form_Compras.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_StockProductosPeluqueria.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_VentasPeluqueria.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\RdlCompile.cache
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\RdlCompile.compiled
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_VentasEstetica.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_StockProductosEstetica.resources
+C:\Users\DaBbleR\Dropbox\Proyecto peluqueria\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_Clientes.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.exe.config
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva Peluqueros.exe
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva Peluqueros.pdb
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Buscar.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.MiControlCruzado.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Form_Ventas.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Form_Compras.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_ProductosEstetica.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_agenda.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_ProductosPeluqueria.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_Comparativa.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_SeleccionarUbicacionBD.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.FORM_SPLASH.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_Clientes.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_StockProductosEstetica.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_StockProductosPeluqueria.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_VentasEstetica.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Listado_VentasPeluqueria.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Principal.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Properties.Resources.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Ayuda.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Forumula.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Foto.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\Salva_Peluqueros.Recursos.Foto2.resources
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.504.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.534.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.537.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.581.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.589.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.598.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.read.685.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.537.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.581.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.589.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.673.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\obj\x86\Debug\GenerateResource.write.685.tlog
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.exe
+C:\Users\Asus\Desktop\Salva Peluqueros\Salva Peluqueros\bin\Debug\Salva Peluqueros.pdb

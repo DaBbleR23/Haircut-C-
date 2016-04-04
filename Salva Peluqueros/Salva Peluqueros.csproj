@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B0D8404-1CC2-4AC0-9796-7339F0E097CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Salva_Peluqueros</RootNamespace>
+    <AssemblyName>Salva Peluqueros</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controles\Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controles\Buscar.designer.cs">
+      <DependentUpon>Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Listview_Curso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\Listview_Curso.Designer.cs">
+      <DependentUpon>Listview_Curso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\MiCombobox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\MiCombobox.designer.cs">
+      <DependentUpon>MiCombobox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\MiControlCruzado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\MiControlCruzado.designer.cs">
+      <DependentUpon>MiControlCruzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\MiTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controles\MiTextBox.designer.cs">
+      <DependentUpon>MiTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosMaestros\Form_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosMaestros\Form_Ventas.Designer.cs">
+      <DependentUpon>Form_Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosMaestros\Form_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosMaestros\Form_Compras.Designer.cs">
+      <DependentUpon>Form_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_ProductosEstetica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_ProductosEstetica.designer.cs">
+      <DependentUpon>FORM_ProductosEstetica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_agenda.designer.cs">
+      <DependentUpon>FORM_agenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_ProductosPeluqueria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosMaestros\FORM_ProductosPeluqueria.designer.cs">
+      <DependentUpon>FORM_ProductosPeluqueria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_Comparativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_Comparativa.Designer.cs">
+      <DependentUpon>FORM_Comparativa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_SeleccionarUbicacionBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_SeleccionarUbicacionBD.designer.cs">
+      <DependentUpon>FORM_SeleccionarUbicacionBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_SPLASH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_SPLASH.designer.cs">
+      <DependentUpon>FORM_SPLASH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado_Clientes.Designer.cs">
+      <DependentUpon>Listado_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado_StockProductosEstetica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado_StockProductosEstetica.Designer.cs">
+      <DependentUpon>Listado_StockProductosEstetica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado_StockProductosPeluqueria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado_StockProductosPeluqueria.Designer.cs">
+      <DependentUpon>Listado_StockProductosPeluqueria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado_VentasEstetica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado_VentasEstetica.Designer.cs">
+      <DependentUpon>Listado_VentasEstetica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listado_VentasPeluqueria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listado_VentasPeluqueria.Designer.cs">
+      <DependentUpon>Listado_VentasPeluqueria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PeluqueriaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PeluqueriaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recursos\Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recursos\Ayuda.designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recursos\Ean13.cs" />
+    <Compile Include="Recursos\Forumula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recursos\Forumula.Designer.cs">
+      <DependentUpon>Forumula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recursos\Foto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recursos\Foto.designer.cs">
+      <DependentUpon>Foto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recursos\Foto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recursos\Foto2.Designer.cs">
+      <DependentUpon>Foto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recursos\OrdenarListView.cs" />
+    <Compile Include="Settings.cs" />
+    <EmbeddedResource Include="Controles\Buscar.resx">
+      <DependentUpon>Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\MiControlCruzado.resx">
+      <DependentUpon>MiControlCruzado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosMaestros\Form_Ventas.resx">
+      <DependentUpon>Form_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosMaestros\Form_Compras.resx">
+      <DependentUpon>Form_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosMaestros\FORM_ProductosEstetica.resx">
+      <DependentUpon>FORM_ProductosEstetica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosMaestros\FORM_agenda.resx">
+      <DependentUpon>FORM_agenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosMaestros\FORM_ProductosPeluqueria.resx">
+      <DependentUpon>FORM_ProductosPeluqueria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_Comparativa.resx">
+      <DependentUpon>FORM_Comparativa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_SeleccionarUbicacionBD.resx">
+      <DependentUpon>FORM_SeleccionarUbicacionBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_SPLASH.resx">
+      <DependentUpon>FORM_SPLASH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado_Clientes.resx">
+      <DependentUpon>Listado_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado_StockProductosEstetica.resx">
+      <DependentUpon>Listado_StockProductosEstetica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado_StockProductosPeluqueria.resx">
+      <DependentUpon>Listado_StockProductosPeluqueria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado_VentasEstetica.resx">
+      <DependentUpon>Listado_VentasEstetica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listado_VentasPeluqueria.resx">
+      <DependentUpon>Listado_VentasPeluqueria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recursos\Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos\Forumula.resx">
+      <DependentUpon>Forumula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos\Foto.resx">
+      <DependentUpon>Foto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos\Foto2.resx">
+      <DependentUpon>Foto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.rdlc" />
+    <EmbeddedResource Include="StockEstetica.rdlc" />
+    <EmbeddedResource Include="VentasEstetica.rdlc" />
+    <EmbeddedResource Include="VentasPeluqueria.rdlc" />
+    <EmbeddedResource Include="StockPeluqueria.rdlc" />
+    <None Include="app.config" />
+    <None Include="PeluqueriaDataSet.xsc">
+      <DependentUpon>PeluqueriaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PeluqueriaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PeluqueriaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PeluqueriaDataSet.xss">
+      <DependentUpon>PeluqueriaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoppingcart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barber-scissors-hairdresser-black-wall-clock-by-cafepress.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tijeras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BARBER-SHOP.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Products.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SellArt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1285968678_people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Master-Peluqueria-Estetica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoformulario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoformulario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoformulario2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tijeras-corta-editar-icono-6455-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espalda20color.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espalda hombre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tijeras-corta-editar-icono-6455-961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espalda hombre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icono.ico" />
+    <Content Include="icono2.ico" />
+    <None Include="Resources\ListadoVentas.png" />
+    <None Include="Resources\ListadoProductos.png" />
+    <None Include="Resources\ListaCompra.png" />
+    <None Include="Resources\tabla.gif" />
+    <None Include="Resources\ListadoClientes.png" />
+    <None Include="Resources\sell.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

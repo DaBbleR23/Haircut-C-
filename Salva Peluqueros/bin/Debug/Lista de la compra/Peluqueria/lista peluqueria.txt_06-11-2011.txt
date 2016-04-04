@@ -1,0 +1,10 @@
+==============================================================
+        Lista de compra Peluqueria Salva ( Peluqueria )
+==============================================================
+
+Número         Nombre                             Cantidad a comprar  Coste
+------         ------                             ------------------  -----
+1.-           Producto anticaida                           4           10
+
+____________________
+Total dinero gastado: 40
